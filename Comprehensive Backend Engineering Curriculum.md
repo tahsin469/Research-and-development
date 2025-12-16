@@ -1,7 +1,7 @@
 
 ---
 
-# **Comprehensive Backend Engineering Curriculum (বাংলা)**
+# **Comprehensive Backend Engineering Curriculum**
 
 ---
 
